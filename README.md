@@ -26,6 +26,7 @@ https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
 |名称 |订阅地址 | 介绍 |
 | ----- | ----- | ------ |
 |**英文推送**|||
+|Guru Weekly|http://www.tuicool.com/mags/guru| 综合性技术周刊，采用机器加人工筛选|
 |Html5 Weekly|http://html5weekly.com/| Html 技术类|
 |CSS Weekly|http://css-weekly.com/| |
 |Javascript Weekly|http://javascriptweekly.com/|JS相关，同样有 html,css 和工具相关|
@@ -40,13 +41,14 @@ https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
 |Css Animations|http://cssanimation.rocks/|关于CSS动画的订阅
 |HACKDESIGN|http://hackdesign.org/|每周发布一个设计类课程|
 |**中文推送**|||
+|推酷|http://www.tuicool.com/|全栈式综合性技术内容聚合推荐阅读平台|
 |稀土:掘金|http://gold.xitu.io/|国内十分用心的开发者技术分享、交流平台|
 |SegmentFault精选 |http://segmentfault.com/|国内开发者技术问答社区每周精选问答|
 |FE Weekly|http://www.feweekly.com/|每周一次，内容主要是英文的，不过有中文导读
 |EchoJs_News|http://www.echojs.com/|每天推送若干好文，都是英文的，JS技术类|
 | 碼天狗週刊 |http://weekly.codetengu.com/|台湾的，一份開發者導向的IT 技術週刊，適合所有患有資訊焦慮症、氣血循環不順以及性受挫的軟體工程師們。|
 |前端资源分享 半月刊|http://www.hacke2.cn/monthly/|每半月发布最新高质量的前端资源|
-
+|编程狂人|http://www.tuicool.com/mags|综合性技术周刊，分类细致，机器加人工筛选|
 
 
 #### 专业博客
